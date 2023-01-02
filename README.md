@@ -20,4 +20,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kj4lxc&label=Profile%20views&color=0e75b6&style=flat" alt="kj4lxc" />
 
-<p align="left"> <a href="https://twitter.com/thekj4lxc" target="blank"><img src="https://img.shields.io/twitter/follow/thekj4lxc?logo=twitter&style=for-the-badge" alt="thekj4lxc" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chaseabridged" target="blank"><img src="https://img.shields.io/twitter/follow/chaseabridged?logo=twitter&style=for-the-badge" alt="chaseabridged" /></a> </p>
